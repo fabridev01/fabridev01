@@ -1,7 +1,7 @@
 # Hello there I'm Fabri👋
 <h1 align='center'>
   <br>
-  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='https://i.ibb.co/XYSwTqV/kaguya-modified.png' alt='Sogi' width='200'></a>
+  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='https://i.ibb.co/XYSwTqV/kaguya-modified.png' alt='Fabri Dev' width='200'></a>
   <br>
   Sogi
   <br>

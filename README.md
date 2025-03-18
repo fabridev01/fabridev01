@@ -1,9 +1,9 @@
-# Hello there I'm Fabri👋
+<h1 align="center"><b>Hi , I'm Fabri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h1 align='center'>
   <br>
-  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='https://i.ibb.co/XYSwTqV/kaguya-modified.png' alt='FabriDev' width='200'></a>
+  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='https://i.ibb.co/XYSwTqV/kaguya-modified.png' alt='Sogi' width='200'></a>
   <br>
-  Sogi
+  Fabri Dev
   <br>
 </h1>
 
